@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page-small" transform="translate(-70.000000, -12.000000)">
+            <g id="Big-Jumbo-Base" fill="#FFFFFF">
+                <rect x="0" y="0" width="1280" height="703"></rect>
+            </g>
+            <g id="Top-Header"></g>
+            <polygon id="Page-1" fill="#1D1D1D" points="70 12 70 60.9454286 90.2766851 40.6687435 78.0271539 28.4194603 85.3579765 21.0883898 117.420592 53.1510051 110.089769 60.4819516 97.669503 48.0619333 77.7314363 68 126 68 126 12"></polygon>
+        </g>
+    </g>
+</svg>
